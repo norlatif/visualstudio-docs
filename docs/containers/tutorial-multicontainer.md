@@ -91,7 +91,7 @@ Add a project to the same solution and call it *MyWebAPI*. Select **API** as the
    using Microsoft.Extensions.Caching.Distributed;
    using StackExchange.Redis;
 
-   namespace WebApi.Controllers
+   namespace MyWebApi.Controllers
    {
        [ApiController]
        [Route("[controller]")]
